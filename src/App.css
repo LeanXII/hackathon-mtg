@@ -1,0 +1,39 @@
+
+.current-selection{
+  position: fixed;
+  left: 200px;
+}
+
+.nav{
+  color: white;
+  display: flex;
+  flex-flow: column;
+  position: fixed;
+  left: 30px;
+  height: 100%;
+  border: 1px solid #121212;
+  overflow: hidden;
+}
+
+
+
+
+.color-select{
+  margin-top: ;
+  height: 20px;
+  width: 100%;
+}
+
+.toughness-select{
+  margin-top: ;
+  height: max-content;
+}
+
+.filter-by-name{
+  margin-top: ;
+  height: 20px;
+}
+
+.nav>button{
+  margin-top: 50px;
+}

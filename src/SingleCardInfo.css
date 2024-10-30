@@ -1,0 +1,21 @@
+
+.single-card-wrapper{
+  display: flex;
+  margin-left: 300px
+}
+.single-card-info{
+  color: white;
+  display:flex;
+  flex-flow: column wrap;
+  width: fit-content;
+}
+
+.single-card-details{
+  margin-top: 30px;
+  color: white;
+  padding: 0px 0px 0px 60px;
+}
+
+.set-select{
+  cursor: pointer;
+}

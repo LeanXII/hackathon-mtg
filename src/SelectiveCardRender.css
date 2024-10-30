@@ -1,0 +1,16 @@
+
+
+.card-search{
+  display: flex;
+  flex-flow: row wrap;
+  width: 70%;
+  justify-content: start;
+  margin-left: 600px;
+}
+
+.card{
+  padding: 0px 0px 50px 70px;
+  width: 20%;
+  color: white;
+  text-align: center;
+}
